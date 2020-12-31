@@ -35,7 +35,7 @@
 
 /* Dark theme  */
 .darktheme {
-  --accent: rgba(86, 87, 245, 1); /* Hover color */
+  --accent: #5657f5; /* Hover color */
   --bg: #32323b;       /* Background color */
   --sbg: #585864;      /* Cards color */
   --fg: #d8dee9;       /* Foreground color */
