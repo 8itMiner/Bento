@@ -39,7 +39,7 @@
   --bg: #32323b;       /* Background color */
   --sbg: #585864;      /* Cards color */
   --fg: #d8dee9;       /* Foreground color */
-  --imgbg: url(/img/wal.jpg);
+  --imgbg: url('https://github.com/8itMiner/Bento/blob/master/img/wal.jpg');
   --imgcol: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8));    /* Filter color */
 }
 
